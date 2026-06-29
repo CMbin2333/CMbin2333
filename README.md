@@ -6,31 +6,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CMbin2333&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMbin2333&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMbin2333&layout=compact&theme=algolia&hide_border=true" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CMbin2333&theme=algolia&hide_border=true" />
-</p>
-
----
-
 ### 📈 Activity Graph
 
 <p align="center">
